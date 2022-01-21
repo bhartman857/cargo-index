@@ -1,1 +1,1 @@
-{"name":"testit","vers":"0.3.0","deps":[{"name":"lazy_static","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","registry":"https://github.com/rust-lang/crates.io-index"}], "cksum":"d4eeced839709c06c675718b16d0f62342daef2bfb6b8b95b846d4f5a1f424fd","features":{},"yanked":false,"links":null}
+{"name":"testit","vers":"0.1.0","deps":[],"cksum":"92e7039fc74b7bd1be33de405d84c4b5e337907f873c5992e6b57fe9143aaf4e","features":{},"yanked":false,"links":null}
